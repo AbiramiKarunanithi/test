@@ -1,0 +1,5 @@
+package com.abi.training.jenkins;
+
+public class JenkinsCalc {
+
+}
